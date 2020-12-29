@@ -1,0 +1,14 @@
+a {
+  border: 2px solid rgb(98, 208, 223);
+  padding: 8px 22px;
+  margin-right: 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  color: rgb(32, 48, 136);
+}
+a:hover {
+  background: rgb(32, 48, 136);
+  color: #fff;
+  border: 2px solid rgb(12, 23, 85);
+  transition: all 2s;
+}
