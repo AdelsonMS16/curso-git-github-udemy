@@ -6,6 +6,5 @@ já que a idéia aqui era apenas praticar os principais comandos do dia-a-dia de
 
 ########################################################################
 
-course-git-github-udemy
 Project created only for study and training in Git and Github following a course made on the Udemy study platform !! The archives of this repository do not contain a very relevant content, since the idea here was just to practice the main commands of a developer's day-to-day.
 
